@@ -19,6 +19,8 @@ Isso aqui está em construção. 😄
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cfspapi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolina-papi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/carolpapi/carolpapi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!--
@@ -26,7 +28,7 @@ Isso aqui está em construção. 😄
 
 Here are some ideas to get you started:
 
-  ![Snake animation](https://github.com/carolpapi/carolpapi/blob/output/github-contribution-grid-snake.svg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
