@@ -10,7 +10,7 @@
 
 ## 🧪 About me
 
-- 🔭 Currently working at **Jazz Tech** since 08/2021
+- 🔭 Currently working at **Jazz Tech** since 2021
 - 🎭 Main stack: **JavaScript, Playwright, Java and Selenium**
 - 🧰 Also experienced in **C#/xUnit** (Back-End)
 - 🌱 Always exploring new tools and QA best practices
