@@ -1,41 +1,51 @@
-### Oiê! Eu sou a Carol Papi ✨
-Isso aqui está em construção. 😄
-<div align="center">
-  <a href="https://www.linkedin.com/in/carolina-papi/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolpapi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carol-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carol-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-</div>
-  
-  ##
-  
-<div> 
-  <a href="https://instagram.com/carolpapi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:cfspapi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carolina-papi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/carolpapi/carolpapi/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-<!--
-**carolpapi/carolpapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Carolina Papi 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">QA Engineer | Test Automation Specialist</h3>
 
+<p align="center">
+  Building test automation frameworks from scratch for 6+ years 🚀
+</p>
 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 About me
+
+- 🔭 Currently working at **Jazz Tech** since 08/2021
+- 🎭 Main stack: **JavaScript, Playwright, Java and Selenium**
+- 🧰 Also experienced in **C#/xUnit** (Back-End)
+- 🌱 Always exploring new tools and QA best practices
+- 💬 Ask me about test automation, software quality, and testing frameworks
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/carolina-papi/)
+
+<br>
+
+## 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+<br>
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/carolina-papi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=carolpapi&style=for-the-badge&color=blueviolet" alt="visitor badge"/>
+</p>
